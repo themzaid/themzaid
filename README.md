@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Frontend Development projects.
+- 🔭 I’m currently working on Web Development projects.
 - 🌱 I’m currently learning OSI Model, Blockchain, Economics, History, Geography, Aerology, Geology, Palaeontology, etc...
 - 👯 I’m looking to collaborate with other Creators and Wanderers!
 - 🤔 I’m looking for help with Backend Development.
