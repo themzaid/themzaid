@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**zaid03/zaid03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Frontend Development projects.
+- 🌱 I’m currently learning OSI Model, Blockchain, Economics, History, Geography, Aerology, Geology, Palaeontology, etc...
+- 👯 I’m looking to collaborate with other Creators and Wanderers!
+- 🤔 I’m looking for help with Backend Development.
+- 💬 Ask me about Anything!
+- 📫 How to reach me: zaid.works@outlook.com
+- 🥅 2021 Goals: Contribute to more open source projects.
+- ⚡ Fun fact: I'm an alien from Pluto! 👽
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="zaid03 | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="zaid03 | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="zaid03 | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="zaid.works" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[website]: http://zaid.works
+[twitter]: https://twitter.com/zaid03_
+[instagram]: https://instagram.com/zaid03
+[linkedin]: https://linkedin.com/in/zaid03
