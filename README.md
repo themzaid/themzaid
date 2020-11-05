@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: Contribute to more open source projects.
 - ⚡ Fun fact: I'm an alien from Pluto! 👽
 
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
 
 <br>
 
