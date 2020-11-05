@@ -9,6 +9,8 @@
 - 🥅 2021 Goals: Contribute to more open source projects.
 - ⚡ Fun fact: I'm an alien from Pluto! 👽
 
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
+
 ### Connect with me:
 
 [<img align="left" alt="zaid03 | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -23,8 +25,6 @@
 [twitter]: https://twitter.com/zaid03_
 [instagram]: https://instagram.com/zaid03
 [linkedin]: https://linkedin.com/in/zaid03
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
 
 <br>
 
