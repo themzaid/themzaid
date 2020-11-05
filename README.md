@@ -38,4 +38,4 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijinmk&show_icons=true&locale=en&layout=compact" alt="rijinmk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid03&show_icons=true&locale=en&layout=compact" alt="zaid03" /></p>
