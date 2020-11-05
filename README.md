@@ -33,3 +33,9 @@
 ---
 
 <p> <img src="https://komarev.com/ghpvc/?username=zaid03&label=Profile%20views&color=0e75b6&style=flat" alt="zaid03" /> </p>
+
+---
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijinmk&show_icons=true&locale=en&layout=compact" alt="rijinmk" /></p>
