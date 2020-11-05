@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-🔭 I’m currently working on **Open Source projects.** <br>
-🌱 I’m currently learning OSI Model, Blockchain, Economics, History, Geography, Aerology, Geology, Palaeontology, etc. <br>
-👯 I’m looking to collaborate with other **Creators and Wanderers!** <br>
-🤔 I’m looking for help with **Backend Development.** <br>
-💬 Ask me about **Anything!** <br>
-📫 How to reach me: **zaid.works@outlook.com** <br>
-🥅 2021 Goals: Contribute to _more open source projects!_ <br>
-⚡ Fun fact: I'm an alien from Pluto! 👽 <br>
+- 🔭 I’m currently working on **Open Source projects.**
+- 🌱 I’m currently learning OSI Model, Blockchain, Economics, History, Geography, - Aerology, Geology, Palaeontology, etc.
+- 👯 I’m looking to collaborate with other **Creators and Wanderers!**
+- 🤔 I’m looking for help with **Backend Development.**
+- 💬 Ask me about **Anything!**
+- 📫 How to reach me: **zaid.works@outlook.com**
+- 🥅 2021 Goals: Contribute to _more open source projects!_
+- ⚡ Fun fact: I'm an alien from Pluto! 👽
 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
 
