@@ -11,6 +11,8 @@
 
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
 
+<br>
+
 ### Connect with me:
 
 [<img align="left" alt="zaid03 | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
