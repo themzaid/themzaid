@@ -32,12 +32,6 @@
 
 ---
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid03&show_icons=true&locale=en&layout=compact" alt="zaid03" /></p>
-
-<br>
-
----
-
 <br>
 
 <p> <img src="https://komarev.com/ghpvc/?username=zaid03&label=Profile%20views&color=0e75b6&style=flat" alt="zaid03" /> </p>
