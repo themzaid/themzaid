@@ -23,3 +23,9 @@
 [twitter]: https://twitter.com/zaid03_
 [instagram]: https://instagram.com/zaid03
 [linkedin]: https://linkedin.com/in/zaid03
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid03&show_icons=true&locale=en&layout=compact" alt="zaid03" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaid03" alt="zaid03" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaid03&label=Profile%20views&color=0e75b6&style=flat" alt="zaid03" /> </p>
