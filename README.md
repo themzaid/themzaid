@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Open Source projects.
-- 🌱 I’m currently learning OSI Model, Blockchain, Economics, History, Geography, Aerology, Geology, Palaeontology, etc.
-- 👯 I’m looking to collaborate with other Creators and Wanderers!
-- 🤔 I’m looking for help with Backend Development.
-- 💬 Ask me about Anything!
-- 📫 How to reach me: zaid.works@outlook.com
-- 🥅 2021 Goals: Contribute to more open source projects.
-- ⚡ Fun fact: I'm an alien from Pluto! 👽
+🔭 I’m currently working on **Open Source projects.**
+🌱 I’m currently learning OSI Model, Blockchain, Economics, History, Geography, Aerology, Geology, Palaeontology, etc.
+👯 I’m looking to collaborate with other **Creators** and **Wanderers**!
+🤔 I’m looking for help with **Backend Development.**
+💬 Ask me about **Anything!**
+📫 How to reach me: **zaid.works@outlook.com**
+🥅 2021 Goals: Contribute to _more open source projects!_
+⚡ Fun fact: I'm an alien from Pluto! 👽
 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
 
@@ -30,9 +30,14 @@
 
 <br>
 
+---
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid03&show_icons=true&locale=en&layout=compact" alt="zaid03" /></p>
 
 <br>
+
+---
+
 <br>
 
 <p> <img src="https://komarev.com/ghpvc/?username=zaid03&label=Profile%20views&color=0e75b6&style=flat" alt="zaid03" /> </p>
