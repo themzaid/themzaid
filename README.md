@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Web Development projects.
-- 🌱 I’m currently learning OSI Model, Blockchain, Economics, History, Geography, Aerology, Geology, Palaeontology, etc...
+- 🔭 I’m currently working on Open Source projects.
+- 🌱 I’m currently learning OSI Model, Blockchain, Economics, History, Geography, Aerology, Geology, Palaeontology, etc.
 - 👯 I’m looking to collaborate with other Creators and Wanderers!
 - 🤔 I’m looking for help with Backend Development.
 - 💬 Ask me about Anything!
@@ -31,11 +31,6 @@
 <br>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid03&show_icons=true&locale=en&layout=compact" alt="zaid03" /></p>
-
-<br>
-<br>
-
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaid03" alt="zaid03" /></a> </p>
 
 <br>
 <br>
