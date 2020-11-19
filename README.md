@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 
 - 🔭 I’m currently working on **Open Source projects.**
-- 🌱 I’m currently learning OSI Model, Blockchain, Economics, History, Geography, Aerology, Geology, Palaeontology, etc.
+- 🌱 I’m currently learning Frontend Architecture.
 - 👯 I’m looking to collaborate with other **Creators and Wanderers!**
 - 🧐 I’m looking for help with **Backend Development.**
 - 💬 Ask me about **Anything!**
