@@ -23,7 +23,7 @@
 
 [<img align="left" alt="zaid.works" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[website]: http://zaid.works
+[website]: https://portfolio2021-4aa7c.web.app
 [twitter]: https://twitter.com/themzaid
 [instagram]: https://instagram.com/themzaid
 [linkedin]: https://linkedin.com/in/themzaid
