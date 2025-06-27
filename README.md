@@ -10,8 +10,8 @@
 - 🥅 2025 Goals: Create some amazing tools with the help of **AI.**
 - ⚡ Fun fact: Learning never stops!
 
+<br>
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
-
 <br>
 
 📈 My Github Stats
