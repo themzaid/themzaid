@@ -27,16 +27,10 @@
 
 ### Connect with me:
 
-<p align="left">
-  <a href="https://twitter.com/themzaid">
-    <img src="https://img.icons8.com/ios-filled/50/808080/twitterx--v1.png" width="24px" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/themzaid">
-    <img src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" width="24px" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://themzaid.com">
-    <img src="https://img.icons8.com/ios-filled/50/808080/internet.png" width="24px" alt="Website" />
-  </a>
-</p>
+[<img align="left" alt="Twitter" width="24px" src="https://img.icons8.com/ios-filled/50/808080/twitterx--v1.png" />][twitter] 
+[<img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" />][linkedin] 
+[<img align="left" alt="Website" width="24px" src="https://img.icons8.com/ios-filled/50/808080/internet.png" />][website] 
+
+[linkedin]: https://linkedin.com/in/themzaid 
+[website]: https://themzaid.com 
+[twitter]: https://twitter.com/themzaid
