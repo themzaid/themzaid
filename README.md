@@ -16,7 +16,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Instagram" width="24px" src="https://img.icons8.com/ios-filled/50/808080/instagram-new.png" />][instagram]
 [<img align="left" alt="Twitter" width="24px" src="https://img.icons8.com/ios-filled/50/808080/twitterx--v1.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" />][linkedin]
 [<img align="left" alt="Website" width="24px" src="https://img.icons8.com/ios-filled/50/808080/internet.png" />][website]
