@@ -14,12 +14,8 @@
 
 <br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=themzaid&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=themzaid&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=themzaid&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+📈 My Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=themzaid&show_icons=true&theme=gotham" alt="themzaid" />
 
 <br>
 
