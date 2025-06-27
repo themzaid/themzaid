@@ -24,14 +24,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themzaid&show_icons=true&locale=en&layout=compact" alt="themzaid" /></p>
 
 <br>
-<br>
-<hr>
 
 ### Connect with me:
 
 [<img align="left" alt="Twitter" width="24px" src="https://img.icons8.com/ios-filled/50/808080/twitterx--v1.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" />][linkedin]
 [<img align="left" alt="Website" width="24px" src="https://img.icons8.com/ios-filled/50/808080/internet.png" />][website]
+
+<br clear="left">
 
 [linkedin]: https://linkedin.com/in/themzaid
 [website]: https://themzaid.com
