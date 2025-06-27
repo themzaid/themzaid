@@ -15,7 +15,7 @@
 <br>
 
 📈 My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=themzaid&show_icons=true&theme=gotham" alt="themzaid" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=themzaid&show_icons=true&theme=gotham" alt="themzaid" />
 
 <br>
 
