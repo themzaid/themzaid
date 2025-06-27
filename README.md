@@ -1,13 +1,14 @@
 ### Hi there 👋🏻
 
-- 🔭 I’m currently working on **Open Source projects.**
+- 🔭 I’m currently working on **Some random but cool projects.**
 - 🌱 I’m currently learning **Frontend Architecture.**
 - 👯 I’m looking to collaborate with other **Developers.**
 - 🧐 I’m looking for help with **Backend Development.**
 - 💬 Ask me about **Anything!**
 - 📫 How to reach me: **themzaid@gmail.com**
-- 🥅 2021 Goals: Contribute to **more open source projects.**
-- ⚡ Fun fact: I'm an alien from Pluto! 👽
+
+- 🥅 2025 Goals: Create some amazing tools with the help of **AI.**
+- ⚡ Fun fact: Learning never stops!
 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
 
@@ -23,7 +24,7 @@
 
 [<img align="left" alt="zaid.works" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[website]: https://portfolio2021-4aa7c.web.app
+[website]: https://themzaid.com
 [twitter]: https://twitter.com/themzaid
 [instagram]: https://instagram.com/themzaid
 [linkedin]: https://linkedin.com/in/themzaid
