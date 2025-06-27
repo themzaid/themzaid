@@ -25,6 +25,7 @@
 
 <br>
 <br>
+<hr>
 
 ### Connect with me:
 
