@@ -21,7 +21,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=themzaid&label=Profile%20views&color=0e75b6&style=flat" alt="themzaid" /> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themzaid&layout=compact&langs_count=10&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themzaid&layout=compact&langs_count=10&cache_seconds=1800" />
 
 <br clear="all">
 
