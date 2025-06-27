@@ -23,13 +23,11 @@
 
 <br>
 
----
-
 <p> <img src="https://komarev.com/ghpvc/?username=zaid03&label=Profile%20views&color=0e75b6&style=flat" alt="zaid03" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themzaid&show_icons=true&locale=en&layout=compact" alt="themzaid" /></p>
 
-### Connect with me:
+# Connect with me:
 
 [<img align="left" alt="Twitter" width="24px" src="https://img.icons8.com/ios-filled/50/808080/twitterx--v1.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" />][linkedin]
