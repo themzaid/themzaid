@@ -27,6 +27,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themzaid&show_icons=true&locale=en&layout=compact" alt="themzaid" /></p>
 
+<br>
+
 ### Connect with me:
 
 [<img align="left" alt="Twitter" width="24px" src="https://img.icons8.com/ios-filled/50/808080/twitterx--v1.png" />][twitter]
