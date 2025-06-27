@@ -16,13 +16,11 @@
 
 ### Connect with me:
 
-[<img align="left" style="filter: invert(100%);" alt="themzaid | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="24px" src="https://img.icons8.com/ios-filled/50/808080/instagram-new.png" />][instagram]
+[<img align="left" alt="Twitter" width="24px" src="https://img.icons8.com/ios-filled/50/808080/twitterx--v1.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" />][linkedin]
+[<img align="left" alt="Website" width="24px" src="https://img.icons8.com/ios-filled/50/808080/internet.png" />][website]
 
-[<img align="left" style="filter: invert(100%);" alt="themzaid | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" style="filter: invert(100%);" alt="themzaid | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" style="filter: invert(100%);" alt="zaid.works" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [website]: https://themzaid.com
 [twitter]: https://twitter.com/themzaid
