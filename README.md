@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-- 🔭 I’m currently learning **Frontend Technologies** such as JavaScript/TypeScript, React, CSS libraries, etc.
+- 🔭 I’m currently working with **Frontend Technologies** such as JavaScript/TypeScript, React, Tailwind, etc.
 - 🌱 I’m currently learning **Frontend Architecture.**
 - 👯 I’m looking to collaborate with other **Developers.**
 - 🧐 I’m seeking assistance with with **Backend Development.**
@@ -11,6 +11,7 @@
 - ⚡ Fun fact: Learning never stops!
 
 <br>
+
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
 <br>
 
