@@ -17,6 +17,7 @@
 
 📈 My Github Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=themzaid&show_icons=true&theme=gotham" alt="themzaid" />
+![](https://github-readme-stats.vercel.app/api?username=themzaid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <br>
 
