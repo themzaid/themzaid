@@ -22,7 +22,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=themzaid&label=Profile%20views&color=0e75b6&style=flat" alt="themzaid" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themzaid&layout=compact&langs_count=10&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themzaid&layout=compact&langs_count=10&cache_seconds=300" />
 
 ### 🧠 Languages I Use Frequently
 
@@ -37,7 +37,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="24px" src="https://img.icons8.com/ios-filled/50/808080/twitterx--v1.png" />][twitter] 
+[<img align
+="left" alt="Twitter" width="24px" src="https://img.icons8.com/ios-filled/50/808080/twitterx--v1.png" />][twitter] 
 [<img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/ios-filled/50/808080/linkedin.png" />][linkedin] 
 [<img align="left" alt="Website" width="24px" src="https://img.icons8.com/ios-filled/50/808080/internet.png" />][website] 
 
