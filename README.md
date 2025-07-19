@@ -55,11 +55,6 @@ I'm a passionate **Frontend Developer** with a love for creating beautiful, func
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=themzaid&theme=tokyonight" alt="GitHub Streak" />
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=themzaid&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ## 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=themzaid&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
@@ -69,10 +64,6 @@ I'm a passionate **Frontend Developer** with a love for creating beautiful, func
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/themzaid)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/themzaid)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:themzaid@gmail.com)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
