@@ -8,14 +8,14 @@
 
 I'm a passionate **Frontend Developer** with a love for creating beautiful, functional user experiences. Currently diving deep into modern web technologies and exploring the intersection of development and AI.
 
-🔭 **Currently working with**: JavaScript/TypeScript, React, Next.js, Tailwind CSS
-🌱 **Currently learning**: Frontend Architecture & Advanced React Patterns
-👯 **Looking to collaborate on**: Open source projects and innovative web applications
-🤝 **Seeking help with**: Backend Development & System Design
-💬 **Ask me about**: Frontend development, React ecosystem, or anything tech-related!
-📫 **Reach me at**: [themzaid@gmail.com](mailto:themzaid@gmail.com)
-🎯 **2025 Goal**: Build amazing AI-powered tools and contribute to the developer community
-⚡ **Fun fact**: I believe learning never stops, and there's always something new to discover!
+🔭 **Currently working with**: JavaScript/TypeScript, React, Next.js, Tailwind CSS  
+🌱 **Currently learning**: Frontend Architecture & Advanced React Patterns  
+👯 **Looking to collaborate on**: Open source projects and innovative web applications  
+🤝 **Seeking help with**: Backend Development & System Design  
+💬 **Ask me about**: Frontend development, React ecosystem, or anything tech-related!  
+📫 **Reach me at**: [themzaid@gmail.com](mailto:themzaid@gmail.com)  
+🎯 **2025 Goal**: Build amazing AI-powered tools and contribute to the developer community  
+⚡ **Fun fact**: I believe learning never stops, and there's always something new to discover!  
 
 <br/>
 
