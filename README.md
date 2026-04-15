@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** with a love for creating beautiful, functional user experiences. Currently diving deep into modern web technologies and exploring the intersection of development and AI.
+I'm a passionate **Developer** with a love for creating beautiful, functional user experiences. Currently diving deep into modern web technologies and exploring the intersection of development and AI.
 
 ## 🤝 Connect with Me
 
