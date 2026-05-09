@@ -1,7 +1,7 @@
 # Hi there, I'm Zaid! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+TypeScript+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;React+%7C+TypeScript+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
