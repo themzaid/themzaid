@@ -1,7 +1,7 @@
 # Hi there, I'm Zaid! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;React+%7C+TypeScript+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;React+%7C+TypeScript+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -16,7 +16,3 @@ I'm a passionate **Developer** with a love for creating beautiful, functional us
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:themzaid@gmail.com)
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=themzaid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-**Thanks for visiting! Let's build something amazing together! 🚀**
